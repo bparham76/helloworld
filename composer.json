@@ -1,0 +1,19 @@
+{
+    "name": "bparham/helloworld",
+    "description": "simple composer package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bparham\\Helloworld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Parham Baghizadeh",
+            "email": "parham.baghizadeh@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
